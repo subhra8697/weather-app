@@ -1,5 +1,7 @@
 <h1 align="center"> Weather App </h1>
+
 This web application developed using JavaScript that provides users with real-time weather information sourced from the OpenWeather API. It offers users the ability to check the current weather conditions, as well as hourly and daily forecasts for any location worldwide. The app is designed to be simple, intuitive, and informative, catering to users who want quick access to accurate weather data.
+
 ## __Features__
 * __Current Weather:__ Users can instantly view the current weather conditions, including temperature, humidity, wind speed, and weather description, for their current location or any specified location.
 * __Hourly Forecast:__ The app provides hourly forecasts, allowing users to plan their activities based on predicted weather conditions for the upcoming hours.
